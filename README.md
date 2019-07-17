@@ -14,5 +14,5 @@ Used Stanford Street View House Numbers (SVHN) dataset.
 
 # Data
 
-[Handwritten digits](https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer)
+[Handwritten digits](https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer)\
 [Real life numbers](http://ufldl.stanford.edu/housenumbers/)
