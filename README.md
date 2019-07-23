@@ -1,7 +1,6 @@
 # GAN Projects
 
 <h3 align="center">Generating Hand Written Digits</h3>
-<p align="center"><a href="./1_Hand_Written_Digits">Code</a></p>
 <p align="center">
   <image src="1_Hand_Written_Digits/result.png" height="30%" width="30%">
 </p>
@@ -9,7 +8,6 @@
 ---
 
 <h3 align="center">DCGAN for Street View House Numbers</h3>
-<p align="center"><a href="./2_Street_View_House_Numbers">Code</a></p>
 <p align="center">
   <image src="2_Street_View_House_Numbers/result.png" height="60%" width="60%">
 </p>
