@@ -15,7 +15,7 @@
 ---
 
 <h3 align="center">CycleGAN for Summer and Winter Transition</h3>
-<p align="center"><a href="./3_CycleGAN_Seasons">Code</a></p>
+<p align="center"><a href="./3_CycleGAN_Seasons">More Detailed Description</a></p>
 <p align="center">
   <image src="3_CycleGAN_Seasons/output/4000.png" height="60%" width="60%">
 </p>
@@ -23,12 +23,12 @@
 ---
 
 <h3 align="center">Celebrity Face GeneratorCelebrity Face Generator </h3>
-<p align="center"><a href="./4_Generate_Celeb_Faces">Code</a></p>
+<p align="center"><a href="./4_Generate_Celeb_Faces">More Detailed Description</a></p>
 <p align="center">
   <image src="4_Generate_Celeb_Faces/output/result2.png" height="60%" width="60%">
 </p>
 
-Some projects I did while learning about generative adversarial networks from online lectures of Ian Goodfellow (DCGAN) and Jun Yan Zhu (CycleGAN). Also wrote more detailed explanation of project 3 and 4 in their folders. I find the concept of having advarsarial networks competing to minimize their individual losses with the expense of the other to be incredibly innovative. Also, using the concept of Cycle-Consistency-Loss to incorporate an element of supervised learning for producing images out of thin air is interesting and fun to implement as well. I will continue looking into GAN and find out just [how dangerous it becomes](https://en.wikipedia.org/wiki/Deepfake).
+Some projects I did while learning about generative adversarial networks from online lectures of Ian Goodfellow (DCGAN) and Jun Yan Zhu (CycleGAN). I also wrote more detailed explanation of project 3 and 4 in their folders. I find the concept of having advarsarial networks competing to minimize their individual losses with the expense of the other to be incredibly innovative. Also, using the concept of Cycle-Consistency-Loss to incorporate an element of supervised learning for producing images out of thin air is interesting and fun to implement as well. I will continue looking into GAN and find out just [how dangerous it becomes](https://en.wikipedia.org/wiki/Deepfake).
 
 # Papers
 
