@@ -15,7 +15,7 @@
 ---
 
 <h3 align="center">CycleGAN for Summer and Winter Transition</h3>
-<p align="center"><a href="./3_CycleGAN_Seasons">More Detailed Description</a></p>
+<p align="center"><a href="./3_CycleGAN_Seasons">Details</a></p>
 <p align="center">
   <image src="3_CycleGAN_Seasons/output/4000.png" height="60%" width="60%">
 </p>
@@ -23,7 +23,7 @@
 ---
 
 <h3 align="center">Celebrity Face GeneratorCelebrity Face Generator </h3>
-<p align="center"><a href="./4_Generate_Celeb_Faces">More Detailed Description</a></p>
+<p align="center"><a href="./4_Generate_Celeb_Faces">Details</a></p>
 <p align="center">
   <image src="4_Generate_Celeb_Faces/output/result2.png" height="60%" width="60%">
 </p>
